@@ -1,0 +1,25 @@
+
+Certified Kumbernetes Administrator (CKA)
+
+
+Certified Kubernetes Administrator: https://www.cncf.io/certification/cka/
+
+Exam Curriculum (Topics): https://github.com/cncf/curriculum
+
+Candidate Handbook: https://www.cncf.io/certification/candidate-handbook
+
+Exam Tips: http://training.linuxfoundation.org/go//Important-Tips-CKA-CKAD
+
+
+DEVOPS15 - 15% Discount
+
+==============================================================================================================
+Core Concepts 
+    - Cluster Architecture
+    - API Primitives
+    - Services & Other Network Primitives
+
+
+- ETCD Cluster - Is a database store info in a key value format 
+- Kube-scheduler - Identify right node place the jobs on based on container resouces requirements, worker node capacity and etc. 
+- 
